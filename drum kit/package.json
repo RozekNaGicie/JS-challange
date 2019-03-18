@@ -1,0 +1,19 @@
+{
+  "name": "drum-kit",
+  "version": "1.0.0",
+  "description": "some drum-kit to play",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-watch": "^5.0.1",
+    "sass": "^1.17.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}

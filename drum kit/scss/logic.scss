@@ -1,0 +1,5 @@
+@each	$legend	in	wraith,	bangalore,	pathfinder,	lifeline, caustic, mirage, gibraltar, bloodhound 	{
+    ##{$legend}-icon
+    {background-image:	url('../images/#{$legend}.jpg');
+    } 
+}
